@@ -1,0 +1,25 @@
+{
+  "name": "image-server",
+  "version": "1.0.0",
+  "description": "图片服务器 for 小程序",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "multer": "^1.4.5",
+    "cors": "^2.8.5",
+    "path": "^0.12.7",
+    "fs-extra": "^11.1.1",
+    "sharp": "^0.32.6",
+    "helmet": "^7.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "keywords": ["image-server", "miniprogram", "upload"],
+  "author": "Your Name",
+  "license": "MIT"
+}

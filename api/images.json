@@ -1,0 +1,42 @@
+{
+  "baseUrl": "https://cm6z.cn",
+  "version": "1.0.0",
+  "lastUpdated": "2024-01-01",
+  "images": {
+    "icons": {
+      "我": "https://cm6z.cn/icons/我.png",
+      "帮": "https://cm6z.cn/icons/帮.png",
+      "设": "https://cm6z.cn/icons/设.png",
+      "藏": "https://cm6z.cn/icons/藏.png",
+      "券": "https://cm6z.cn/icons/券.png",
+      "单": "https://cm6z.cn/icons/单.png",
+      "钱": "https://cm6z.cn/icons/钱.png",
+      "orders": "https://cm6z.cn/icons/orders.png",
+      "orders-active": "https://cm6z.cn/icons/orders-active.png",
+      "profile": "https://cm6z.cn/icons/profile.png",
+      "profile-active": "https://cm6z.cn/icons/profile-active.png",
+      "booking": "https://cm6z.cn/icons/booking.png",
+      "booking-active": "https://cm6z.cn/icons/booking-active.png",
+      "home": "https://cm6z.cn/icons/home.png",
+      "home-active": "https://cm6z.cn/icons/home-active.png",
+      "calendar": "https://cm6z.cn/icons/calendar.png",
+      "calendar-o": "https://cm6z.cn/icons/calendar-o.png",
+      "del": "https://cm6z.cn/icons/del.png"
+    },
+    "posters": {
+      "poster1": "https://cm6z.cn/posters/制作麻将主题海报3.png",
+      "poster2": "https://cm6z.cn/posters/棋牌室海报设计1.png",
+      "poster3": "https://cm6z.cn/posters/棋牌室海报设计2.png"
+    },
+    "images": {
+      "vip": "https://cm6z.cn/images/vip.png",
+      "miniprogram": "https://cm6z.cn/images/制作麻将房小程序插图.png",
+      "other": "https://cm6z.cn/images/123123.png"
+    }
+  },
+  "categories": {
+    "icons": "功能图标",
+    "posters": "宣传海报", 
+    "images": "其他图片"
+  }
+}
